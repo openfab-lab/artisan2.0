@@ -21,7 +21,7 @@
 - Premier plissage
 
 **Observations :** 
-Permet de contextualiser l'Origami, l'art qu'on ne connait pas forcément bien.
+- Permet de contextualiser l'Origami, l'art qu'on ne connait pas forcément bien.
 
 ### Pratique plissage
 **Actions :** 
