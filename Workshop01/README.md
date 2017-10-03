@@ -18,7 +18,7 @@ T +32 484 30 31 01
 #### Visuel:  
 
 #### Liste et outils de diffusion : 
-- Liste de contacts
+- [Liste de contacts](/Communication/Liste-de-diffusion.md)
 - [Événement Facebook](https://www.facebook.com/events/1990938344524373)
 - [Événement Meetup](https://www.meetup.com/fr-FR/FabCity/events/243673249/?eventId=243673249)
 
