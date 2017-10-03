@@ -6,6 +6,8 @@ anastaoia.Dupont@gmail.com
 charlotte.garda@yahoo.fr    
 e.vanwambeke@gmail.com  
 brigitte.raoult@skynet.be  
+camillevierin@gmail.com  
+https://www.facebook.com/nicolas.kombate.7  
     
 #### Artisans du quartier (contacts obtenus par la commune)
 artisan Juan Vandepute 0488/76.78.98  
