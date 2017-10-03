@@ -23,7 +23,7 @@ T +32 484 30 31 01
 - [Événement Meetup](https://www.meetup.com/fr-FR/FabCity/events/243673249/?eventId=243673249)
 
 #### Billetterie en ligne :
--[Weezevent](https://www.weezevent.com/artisan2-0)
+- [Weezevent](https://www.weezevent.com/artisan2-0)
 
 ### Documentation:  
 - [Day 1](/Workshop01/Day%201.md)
