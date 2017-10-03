@@ -26,6 +26,6 @@ T +32 484 30 31 01
 -[Weezevent](https://www.weezevent.com/artisan2-0)
 
 ### Documentation:  
-- [Day 1]
-- [Day 2]
-- [Retours](https://github.com/openfab-lab/artisan2.0/blob/master/Workshop01/Retours.md)
+- [Day 1](/Day%201.md)
+- [Day 2](/Day%202.md)
+- [Retours](/Retours.md)
