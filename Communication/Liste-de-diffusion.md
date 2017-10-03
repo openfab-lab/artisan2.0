@@ -1,6 +1,6 @@
 # Liste de diffusion
 
-#### Personnes intéressés
+#### Personnes intéressées
 info@juliencarretero.com (designer connu, professeur à ENSAV La Cambre)  
 anastaoia.Dupont@gmail.com  
 charlotte.garda@yahoo.fr    
@@ -28,4 +28,4 @@ contacts Anne-Sophie :
 Bon Jour Bruxelles : Silvia
 Commune : isabelle.legrain@ixelles.brussels
 Anne d'habitat et rénovation : cqdm.hr@misc.irisnet.be  
-lheureuxnouveau@gmail.com
+les heureux nouveaux : lheureuxnouveau@gmail.com  
