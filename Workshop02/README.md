@@ -19,7 +19,7 @@ Baya ?
 - [Événement Meetup]()
 
 #### Billetterie en ligne :
--[Weezevent]()
+- [Weezevent]()
 
 ### Documentation:  
 - [Day 1](/Workshop02/Day%201.md)
