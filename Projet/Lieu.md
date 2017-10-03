@@ -1,5 +1,5 @@
 # Lieu
-**Réunir toutes les informations sur les lieux possibles
+**Réunir toutes les informations sur les lieux possibles**
 
 ### OpenFab
 - Localisation : Pas tout à fait dans le quartier
@@ -14,6 +14,7 @@
 - Outils : ?
 - Équipement : ?
 - Capacité : ?
+- Disponibilités : ?
 
 ### Le Nid - Baya
 - Localisation : rue Kercks (dans le quartier)
@@ -22,3 +23,4 @@
 - Outils : Atelier menuiserie ?
 - Équipement : ?
 - Capacité : ?
+- Disponibilités : ?
