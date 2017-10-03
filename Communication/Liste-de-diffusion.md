@@ -26,3 +26,6 @@ PointCulture : alexandra.garin@pointculture.be
 contacts Dewi : Faculté d'architecture La Cambre-Horta, Ecole secondaire Saint-Luc Bruxelles, origamistes belges...  
 contacts Anne-Sophie :  
 Bon Jour Bruxelles : Silvia
+Commune : isabelle.legrain@ixelles.brussels
+Anne d'habitat et rénovation : cqdm.hr@misc.irisnet.be
+lheureuxnouveau@gmail.com
