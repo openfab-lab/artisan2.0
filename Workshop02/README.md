@@ -1,4 +1,4 @@
-# Workshop01 - OpenFab
+# Workshop02 - 
 **14, 15 octobre 2017**
 
 Animateur: Dewi Brunet
