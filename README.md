@@ -17,10 +17,10 @@ Inscription à la journée, de 10 à 17h.
 10€/Jour comprenant le repas du midi.
 Inscription limitée à 8 participants par jours (ou à 10 si 2 animateurs ou à + si autre part ?)
 
-Samedi 30 Septembre et Dimanche 1 Octobre
-Samedi 14 et Dimanche 15 Octobre
-Samedi 20 et Dimanche 21 Octobre
-+ Hackaton 4 jours du 20 au 24 Novembre 
+Samedi 30 Septembre et Dimanche 1 Octobre  
+Samedi 14 et Dimanche 15 Octobre  
+Samedi 20 et Dimanche 21 Octobre  
+Hackaton 4 jours du 20 au 24 Novembre  
 
 Contact et versement : nicolas@openfab.be
 
