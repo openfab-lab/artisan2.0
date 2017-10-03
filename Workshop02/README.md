@@ -14,7 +14,7 @@ Baya ?
 #### Visuel:  
 
 #### Liste et outils de diffusion : 
-- [Liste de contacts](/master/Communication/Liste-de-diffusion.md)
+- [Liste de contacts](/Communication/Liste-de-diffusion.md)
 - [Événement Facebook]()
 - [Événement Meetup]()
 
