@@ -8,17 +8,17 @@
 - Capacité : 10 ?
 
 ### La Serre - Communa
-- Localisation : rue Gray (dans le quartier)
-- Contact : ?
-- Tarif : ?
-- Outils : ?
+- Localisation : 173 rue Gray (dans le quartier)
+- Contact : Sâm Rosenzweig sam@communa.be
+- Tarif : Prix libre
+- Outils : Tables et chaises
 - Équipement : ?
-- Capacité : ?
+- Capacité : Max 30?
 - Disponibilités : ?
 
 ### Le Nid - Baya
-- Localisation : rue Kercks (dans le quartier)
-- Contact : ?
+- Localisation : 67 rue Kercks (dans le quartier)
+- Contact : contact.baya@gmail.com
 - Tarif : 12€/h ?
 - Outils : Atelier menuiserie ?
 - Équipement : ?
