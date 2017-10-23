@@ -21,3 +21,7 @@ Venez apprendre à créer des abris portables, idéale couvert d’appoint, exte
 --> Création d’abris en origami, flexible, pliable et transportable, en carton. Prévoir un prototype, proposer de le faire en plus grand/plus long ou d’en trouver un autre. Proposer de réfléchir à l’imperméabilisation du carton et du système de transport.
 Avec étudiants en architecture ? 
 
+
+![photo](https://github.com/DewiBrunet/artisan2.0/blob/master/Photo/Lampion.JPG)
+
+![photo](https://github.com/DewiBrunet/artisan2.0/blob/master/Photo/Abris.jpg)
