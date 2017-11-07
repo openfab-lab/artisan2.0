@@ -1,19 +1,31 @@
-600€ (350€/animation + 250€/matériau) * 10 jours de workshop = 6000€ 200€ * 2 "Bricole & Picole" = 400€ Total = ? 7500 ?
+600€ (350€/animation + 250€/matériau) * 10 jours de workshop = 6000€ 200€ * 2 "Bricole & Picole" = 400€ Total = ? 7500 ? **7800€ AU TOTAL**  
+
+|BILAN ARTISAN 2.0||
+| --- | --- |
+| Workshops | - 2652€ |
+| Hackathon | - 4339€ |
+| Bricole Picole| - 400€ |
+| **TOTAL** | **- 7391€** |
 
 
 # Workshops
 
-|||
+|BILAN||
 | --- | --- |
+| Organisation | - 500€ |
 | Animation | - 1750€ |
-| Matériel| - 103,76€ |
-| Repas | - 168,74€ |
+| Matériel| - 104€ |
+| Repas | - 169€ |
 | Inscriptions | + 130€ |
-| **TOTAL** | **- 1892€** |
+| **TOTAL** | **- 2652€** |
+
+| Organisation |  |
+| --- | --- |
+| ?? (Paul/Nico) | 500€ |
 
 | Animation |  |
 | --- | --- |
-| 5j x 350€ | 1750€ |
+| 5j x 350€ (Dewi) | 1750€ |
 
 | Matériel |  |
 | --- | --- |
@@ -44,10 +56,44 @@
 | --- | --- |
 | 13 x 10 | 130€ |
 
-
-
-
 # Hackathon
+
+|BILAN||
+| --- | --- |
+| Organisation | - 800€ |
+| Animation | - 2800€ |
+| Matériel| - 639€ |
+| Récompenses| - 100€ |
+| **TOTAL** | **- 4339€** |
+
+| Organisation |  |
+| --- | --- |
+| 1 organisateur | 800€ |
+
+| Animation |  |
+| --- | --- |
+| 4j x 2 animateurs x 350€ | 2800€ |
+
+| Matériel (Prototype lampe et abri) |  |
+| --- | --- |
+| 1 x Papier Simili | 2,34€ |
+| 1 x Spot LED sol | 11,47€ |
+| Ficelle, batons bois | 0,5€ |
+| 14 x Carton | 23,24€ |
+| Scotch | 1€ |
+| Total | 38,55€ |
+
+| Matériel | ||
+| --- | --- |--- | 
+| 5 à 15 x Lampion | 20€ |100 à 300€| 
+| 5 à 15 x Abri | 20€ |100 à 300€| 
+|| Total | 200 à 600€ |
+
+| Récompenses | |
+| --- | --- |
+| ?? | 100€ | 
+
+
 
 # Autre
 
