@@ -1,4 +1,4 @@
-- Quand? : Du 20 au 24 Novembre
+- Quand? : 23,24,25 et 26 Novembre
 - A quelle heure? : 9h - 18h
 - Pour qui? : 10 à 40 participants au total (de préférence du quartier)
 - Où? : Communa (et OpenFab et Le Nid)
