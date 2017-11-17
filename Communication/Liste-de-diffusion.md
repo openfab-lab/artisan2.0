@@ -31,3 +31,17 @@ Bon Jour Bruxelles : Silvia
 Commune : isabelle.legrain@ixelles.brussels
 Anne d'habitat et rénovation : cqdm.hr@misc.irisnet.be  
 les heureux nouveaux : lheureuxnouveau@gmail.com  
+
+#### Participants Workshops 1,2,3
+denisjerem@gmail.com
+anouklewko@hotmail.fr
+luciepinier@gmail.com
+syletjoy@gmail.com
+audreyspeyer@gmail.com
+acelineetlaurent@gmail.com
+fabienne_boonen@hotmail.com
+francoisfillatre@hotmail.com
+jmaushag@gmail.com
+vporot@skynet.be
+brigitte.raoult@gmail.com 
+esthersnippe@gmail.com 
