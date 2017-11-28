@@ -1,11 +1,12 @@
-600€ (350€/animation + 250€/matériau) * 10 jours de workshop = 6000€ 200€ * 2 "Bricole & Picole" = 400€ Total = ? 7500 ? **7800€ AU TOTAL**  
+600€ (350€/animation + 250€/matériau) * 10 jours de workshop = 6000€ 200€ * 2 "Bricole & Picole" = 400€ Total = ? 7500 ?    
+**7800€ AU TOTAL**  
 
 |BILAN ARTISAN 2.0||
 | --- | --- |
-| Workshops | - 2652€ |
-| Hackathon | - 4777€ |
+| Workshops | - 2743€ |
+| Hackathon | - 4397€ |
 | Bricole Picole| - 400€ |
-| **TOTAL** | **- 7829€** |
+| **TOTAL** | **- 7540€** |
 
 
 # Workshops
@@ -13,19 +14,19 @@
 |BILAN||
 | --- | --- |
 | Organisation | - 500€ |
-| Animation | - 1750€ |
+| Animation | - 2100€ |
 | Matériel| - 104€ |
 | Repas | - 169€ |
 | Inscriptions | + 130€ |
-| **TOTAL** | **- 2652€** |
+| **TOTAL** | **- 2743€** |
 
 | Organisation |  |
 | --- | --- |
-| ?? (Paul/Nico) | 500€ |
+| Paul | 500€ |
 
 | Animation |  |
 | --- | --- |
-| 5j x 350€ (Dewi) | 1750€ |
+| 6j x 350€ (Dewi) | 2100€ |
 
 | Matériel |  |
 | --- | --- |
@@ -48,7 +49,7 @@
 |W02 Samedi (4 inscrits)	|Plats à emporter	|60€*|
 |W03 Samedi (3 inscrits)	|Achats au Delhaize	|20,74€	|
 |W03 Dimanche (3 inscrits)|	Brunch Communa	|48€	|
-|	|Total	|- 168,74€| 
+|	|Total	|168,74€| 
 
 (* à confirmer par Nico)
 
@@ -60,25 +61,29 @@
 
 |BILAN||
 | --- | --- |
-| Expo/Organisation | - 800€ |
-| Animation | - 3500€ |
-| Matériel| - 440€ |
-| Repas| - 76€ |
+| Expo/Organisation | - 1000€ |
+| Animation | - 3000€ |
+| Matériel| - 436€ |
+| Repas| - € |
 | Inscription| + 39€ |
-| **TOTAL** | **- 4777€** |
+| **TOTAL** | **- 4397€** |
 
 | Exposition Ravenstein/organisation |  |
 | --- | --- |
-| 1 organisateur | 800€ |
+| Sarah | 1000€ |
 
 | Animation |  |
 | --- | --- |
-| Anne-Sophie 2j x 350€ | 700€ |
-| Désiré 4j x 350€ | 1400€ |
-| Dewi 4j x 350€ | 1400€ |
-| Total | 3500€ |
+| Anne-Sophie 2j x 300€ | 600€ |
+| Désiré 4j x 300€ | 1200€ |
+| Dewi 4j x 300€ | 1200€ |
+| Total | 3000€ |
+ 
+| Matériel |  |
+| --- | --- |
+|**Total matériel** | 436,34€ |
 
-| Matériel (Prototype lampe et abri) |  |
+| Prototype lampe et abri|  |
 | --- | --- |
 | 1 x Papier Simili | 2,34€ |
 | 1 x Spot LED sol | 11,47€ |
@@ -87,19 +92,26 @@
 | Scotch | 1€ |
 | Total | 38,55€ |
 
-| Matériel (confection) | |
+| Confection 10 lampion| |
 | --- | --- |
-| 10 x Lampion | 40€ |
-|| Total | 400€ |
+| Papiers (Kraft, Tyvek, Simili Japon, Canson) | 87,16€ |
+| Teintures | 16,10€ |
+| Electronique (Arduino, LED) | 288,55€ |
+| Bois MDF| 5,98€ |
+|Total| 397,79€ |
+
+
  
 |Repas|||
 | --- | --- | --- | 
 |Jours	|Où	|Coûts|	
-|J1|Communa (cuisto Olivier)	|32€|	
-|J2|Communa (cuisto Olivier)	|32€|	
+|J1|Communa (cuisto Olivier)	|32€ (4p)|	
+|J2|Communa (cuisto Olivier)	|32€ (4p)|	
 |J3|Diète	|0€|
-|J4|Buffet (Delaize)|12€	|
-|	|Total	| 76€| 
+|J4|Buffet (Delaize)|12€(3p)|
+|	|Total	| 76€*|
+*A payer en crrrrr à Dewi
+
 
 | Inscription |  |
 | --- | --- |
@@ -110,5 +122,5 @@
 | Bricole & Picole  |  |
 | --- | --- |
 | 22 juin 2017 | 200€ |
-| 17 décembre 2017 | 200€ |
+| 17 décembre 2017? | 200€ |
 
