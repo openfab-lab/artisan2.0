@@ -3,9 +3,9 @@
 |BILAN ARTISAN 2.0||
 | --- | --- |
 | Workshops | - 2652€ |
-| Hackathon | - 4339€ |
+| Hackathon | - 4777€ |
 | Bricole Picole| - 400€ |
-| **TOTAL** | **- 7391€** |
+| **TOTAL** | **- 7829€** |
 
 
 # Workshops
@@ -60,19 +60,23 @@
 
 |BILAN||
 | --- | --- |
-| Organisation | - 800€ |
-| Animation | - 2800€ |
-| Matériel| - 639€ |
-| Récompenses| - 100€ |
-| **TOTAL** | **- 4339€** |
+| Expo/Organisation | - 800€ |
+| Animation | - 3500€ |
+| Matériel| - 440€ |
+| Repas| - 76€ |
+| Inscription| + 39€ |
+| **TOTAL** | **- 4777€** |
 
-| Organisation |  |
+| Exposition Ravenstein/organisation |  |
 | --- | --- |
 | 1 organisateur | 800€ |
 
 | Animation |  |
 | --- | --- |
-| 4j x 2 animateurs x 350€ | 2800€ |
+| Anne-Sophie 2j x 350€ | 700€ |
+| Désiré 4j x 350€ | 1400€ |
+| Dewi 4j x 350€ | 1400€ |
+| Total | 3500€ |
 
 | Matériel (Prototype lampe et abri) |  |
 | --- | --- |
@@ -83,21 +87,28 @@
 | Scotch | 1€ |
 | Total | 38,55€ |
 
-| Matériel | ||
-| --- | --- |--- | 
-| 5 à 15 x Lampion | 20€ |100 à 300€| 
-| 5 à 15 x Abri | 20€ |100 à 300€| 
-|| Total | 200 à 600€ |
-
-| Récompenses | |
+| Matériel (confection) | |
 | --- | --- |
-| ?? | 100€ | 
+| 10 x Lampion | 40€ |
+|| Total | 400€ |
+ 
+|Repas|||
+| --- | --- | --- | 
+|Jours	|Où	|Coûts|	
+|J1|Communa (cuisto Olivier)	|32€|	
+|J2|Communa (cuisto Olivier)	|32€|	
+|J3|Diète	|0€|
+|J4|Buffet (Delaize)|12€	|
+|	|Total	| 76€| 
 
-
+| Inscription |  |
+| --- | --- |
+| 1 x 39 | 39€ |
 
 # Autre
 
 | Bricole & Picole  |  |
 | --- | --- |
 | 22 juin 2017 | 200€ |
+| 17 décembre 2017 | 200€ |
 
