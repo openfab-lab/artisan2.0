@@ -1,6 +1,6 @@
 # Artisan2.0
 
-Dans le cadre du contrat de quartier Maelbeek, une série de workshops sur le thème « artisan 2.0 » sont proposés. Les workshops sont mis en place par l’OpenFab, écosystème 100% indépendant qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. L’autogestion, le croisement des disciplines et la recherche par expérimentation sont essentiels dans ce FabLab. Les workshops seront encadrés par Nicolas De Barquin, FabLab manager, Dewi Brunet, artiste plieur et Paul Le Coz, chef de projet.
+Dans le cadre du contrat de quartier Maelbeek, une série de workshops sur le thème « artisan 2.0 » sont proposés. Les workshops sont mis en place par l’OpenFab, écosystème 100% indépendant qui mutualise les capacités de chacun pour être catalyseur d’innovation et de créativité. L’autogestion, le croisement des disciplines et la recherche par expérimentation sont essentiels dans ce FabLab. Les workshops seront encadrés par Nicolas de Barquin, FabLab manager, Dewi Brunet, artiste plieur et Paul Le Coz, chef de projet.
 
 Artisan 2.0 vise à partager des passions et des savoir-faire manuels en mettant à disposition les opportunités offertes par les outils numériques.
 
